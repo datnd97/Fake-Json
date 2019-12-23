@@ -1,8 +1,11 @@
 {
   "posts": [
-    { "id": 1, "name": "Post 1" },
-    { "id": 2, "name": "Post 2" },
-    { "id": 3, "name": "Post 3" }
+    { "id": 1, "name": "Sun Sea Villa","typeHome": "Luxury room","typeRoom": "2 nguoi",
+    "address":"Ha Noi","bedroom":1,"bathroom":"1","description":"Thoai mai tien nghi",
+    "price":200000},
+    { "id": 2, "name": "Ha Long Villa","typeHome": "Luxury room","typeRoom": "2 nguoi",
+    "address":"Ha Noi","bedroom":1,"bathroom":"1","description":"Thoai mai tien nghi",
+    "price":500000},
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
