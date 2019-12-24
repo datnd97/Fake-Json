@@ -1,6 +1,10 @@
 {
   "posts": [
-    { "id": 1, "description": "some comment", "name": "Nha 5 sao","status" : "true"},
+    { "id": 1, "description": "some comment", "name": "Nha 5 sao",
+     "status" : { 
+       "id": 1,
+       "name": "available"}
+    },
      { "id": 2, "description": "some comment", "name": "Nha 5 sao","status":"false"},
      { "id": 3, "description": "some comment", "name": "Nha 5 sao","status":"false"},
      { "id": 4, "description": "some comment", "name": "Nha 5 sao","status":"false"},
