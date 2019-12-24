@@ -16,4 +16,8 @@
   "profile": {
     "name": "typicode"
   }
+  "status": [
+  {"id":1,"name":"available"},
+  {"id":2,"name":"Vacancy"}
+  ]
 }
